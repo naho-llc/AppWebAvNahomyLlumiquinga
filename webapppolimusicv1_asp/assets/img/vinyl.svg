@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" role="img" aria-label="Disco de vinilo">
+  <defs>
+    <radialGradient id="vg" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3a3f4a"/>
+      <stop offset="1" stop-color="#14171d"/>
+    </radialGradient>
+  </defs>
+  <circle cx="150" cy="150" r="146" fill="url(#vg)"/>
+  <circle cx="150" cy="150" r="132" fill="none" stroke="#0c0e12" stroke-width="1.4" opacity="0.8"/>
+  <circle cx="150" cy="150" r="120" fill="none" stroke="#0c0e12" stroke-width="1.4" opacity="0.8"/>
+  <circle cx="150" cy="150" r="108" fill="none" stroke="#0c0e12" stroke-width="1.4" opacity="0.8"/>
+  <circle cx="150" cy="150" r="96"  fill="none" stroke="#0c0e12" stroke-width="1.4" opacity="0.8"/>
+  <circle cx="150" cy="150" r="84"  fill="none" stroke="#0c0e12" stroke-width="1.4" opacity="0.8"/>
+  <circle cx="150" cy="150" r="72"  fill="none" stroke="#0c0e12" stroke-width="1.4" opacity="0.8"/>
+  <circle cx="150" cy="150" r="58"  fill="#ff4d3d"/>
+  <circle cx="150" cy="150" r="58"  fill="none" stroke="#ff9a3d" stroke-width="3" opacity="0.7"/>
+  <circle cx="150" cy="150" r="9"   fill="#f5f6f8"/>
+  <path d="M150 92a10 10 0 0 1 10 10c0 4-6 5-6 9 0 3 4 4 4 7v66a8 8 0 1 1-16 0v-66c0-3 4-4 4-7 0-4-6-5-6-9a10 10 0 0 1 10-10Z" fill="#fff" opacity="0.95" transform="translate(0,-8) scale(0.9)"/>
+</svg>
